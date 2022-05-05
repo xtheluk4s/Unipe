@@ -1,0 +1,1 @@
+Oi, esse projeto foi feito por mim no 1º período de Ciência da Computação na matéria de programação de computadores, com o intuito de calcular a área de polígonos (Triângulo, Quadrado, Retângulo, Paralelogramo, Trapézio, Losango, Pentágono e Hexágono).
